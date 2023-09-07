@@ -1,18 +1,18 @@
 # links section data
 - last_name: 구글메일
   first_name:
-  desc: Google
+  desc: haksunlee34@gmail.com
   website: https://www.google.com
   email: haksunlee34@google.com
 
 - last_name: 네이버 메일
   first_name: 
-  desc: Naver
+  desc: lsh6076@naver.com
   website: http://www.naver.com/
   email: lsh6076@naver.com
 
 - last_name: 깃허브
   first_name: 
-  desc: github
+  desc: lsh6076@naver.com
   website: https://github.com
   email: coo@google.com
