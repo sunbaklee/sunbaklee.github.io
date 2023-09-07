@@ -1,30 +1,30 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
 - name:
-    detail: Company A
+    detail: 동의대학교
     i18n: company_a
   desc:
-    detail: I worked at Company A ...
+    detail: 봉사동아리 V.A.S.E 회장(2023년도) gdsc(google developer students clubs) 2.5기 가입
     i18n: company_a_desc
   date:
-    detail: Apr. 2016
+    detail: Mar. 2022
     i18n: company_a_date
   job:
-    detail: CTO
+    detail: 풀스택 공부중!
     i18n: company_a_job
   icon: fa-plus-square
   present: true
 
 - name:
-    detail: Company B
+    detail: 동아고등학교
     i18n: company_b
   desc:
-    detail: I worked at Company B ...
+    detail: 동아고에서 재학 현재는 졸업
     i18n: company_b_desc
   date:
-    detail: Jun. 2015
+    detail: Mar. 2019
     i18n: company_b_date
   job:
-    detail: Full Stack Developer
+    detail: 파이썬만 조금...
     i18n: company_b_job
   icon: fa-plus-square

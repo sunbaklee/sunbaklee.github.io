@@ -1,22 +1,22 @@
 # projects section data
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
-- name: Jalpc
-  i18n: jalpc
-  gh_user: jarrekk
-  repo: Jalpc
-  img: /static/assets/img/landing/jekyll.png
-  desc: This project is my project. I use Javascript to get repo's information all my repos have only one request.
+- name: Flutter
+  i18n: si-jang-honey-container_front
+  gh_user: sunbaklee
+  repo: si-jang-honey-container_front
+  img: /static/assets/img/landing/flutter.png
+  desc: 전통시장 재고 처리 시스템 시장 꿀통. 프론트 엔드
 
-- name: Python
-  i18n: cpython
-  gh_user: python
-  repo: cpython
-  img: /static/assets/img/landing/python.png
-  desc: This project is other's project. I use another request to get repo's information.
+- name: Html/Css/Js/PHP
+  i18n: html/css/js/PHP
+  gh_user: sunhaklee
+  repo: html/css/js/PHP
+  img: /static/assets/img/landing/html.png
+  desc: Html과 css, js 그리고 PHP를 활용한 간단한 웹사이트 제작
 
 - name: Google
   i18n: google
   url: https://google.com
   img: /static/assets/img/landing/google.png
-  desc: This is another project.
+  desc: GDSC 프로젝트
