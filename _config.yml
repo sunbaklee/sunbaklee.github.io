@@ -62,9 +62,10 @@ sass:
 encoding: utf-8
 
 # other settings
+timezone: Asia/Seoul
+futrue: true
 highlighter: rouge
 markdown: kramdown
-futrue: true
 kramdown:
   input: GFM
   syntax_highlighter: rouge
