@@ -62,7 +62,7 @@ sass:
 encoding: utf-8
 
 # other settings
-timezone: Asia/Seoul
+#timezone: Asia/Seoul
 futrue: true
 highlighter: rouge
 markdown: kramdown
