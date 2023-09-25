@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title:  "리액트 state-1"
+title:  "리액트 state"
 date: 2023-09-16
 desc: "Quick test on writing code snippets in a blog post"
 keywords: "React,website,blog,first"
