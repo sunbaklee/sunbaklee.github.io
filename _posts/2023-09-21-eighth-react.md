@@ -13,6 +13,9 @@ icon: icon-javascript
 ## <b>리액트 props 맛보기</b>
 <hr>
 
+> ## <b>props란?</b>
+<b>서로 다른 컴포넌트에 state를 전송해주는 것 부모에서 자식으로</b>
+
 > ## <b>props로 부모 -> 자식 state 전달 방법</b>
 
 <b>1. 자식컴포넌트 사용하는 곳에 가서 <자식컴포넌트 작명={state이름}/> </b>
@@ -40,3 +43,15 @@ function Modal(props){
 ```
 
 > ## <b>props는 함수 파라미터 문법이랑 같다</b>
+
+```javascript
+function Modal(props){
+  return (
+    <div className="modal" style={{ background : 'skyblue' }}>
+      <h4>{ props.글제목[0] }</h4>
+      <p>날짜</p>
+      <p>상세내용</p>
+    </div>
+  )
+}
+```
