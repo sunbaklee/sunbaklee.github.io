@@ -2,7 +2,7 @@
 layout: post
 published: true
 title:  "리액트 state-1"
-date: 2023-09-26
+date: 2023-09-16
 desc: "Quick test on writing code snippets in a blog post"
 keywords: "React,website,blog,first"
 categories: [React]
@@ -33,7 +33,7 @@ function App(){
       </div>
       <div className="list">
         <h4>글제목</h4>
-        <p>9월 26일 발행</p>
+        <p>9월 16일 발행</p>
         <hr/>
       </div>
     </div>

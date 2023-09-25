@@ -2,7 +2,7 @@
 layout: post
 published: true
 title:  "리액트 레이아웃 기초"
-date: 2023-09-25
+date: 2023-09-15
 desc: "Quick test on writing code snippets in a blog post"
 keywords: "React,website,blog,first"
 categories: [React]
