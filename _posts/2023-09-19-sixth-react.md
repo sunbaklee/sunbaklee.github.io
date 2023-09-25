@@ -1,7 +1,7 @@
 ---
 layout: post
 published: true
-title:  "리액트 div 줄이기"
+title:  "리액트 div 줄이기(fragment, component 문법)"
 date: 2023-09-19
 desc: "Quick test on writing code snippets in a blog post"
 keywords: "React,website,blog,first"
@@ -71,6 +71,7 @@ function Modal(){
 4. <컴포넌트></컴포넌트> 이렇게 써도 되고 <컴포넌트/> 이렇게 써도 됩니다. <br>
 
 > ## <b>arrow function 사용가능</b>
+
 ```javascript
 function Modal(){
   return ( <div></div> )
