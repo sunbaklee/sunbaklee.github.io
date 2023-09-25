@@ -14,6 +14,7 @@ icon: icon-javascript
 <hr>
 
 > ## <b>props란?</b>
+
 <b>서로 다른 컴포넌트에 state를 전송해주는 것 부모에서 자식으로</b>
 
 > ## <b>props로 부모 -> 자식 state 전달 방법</b>
